@@ -1,2 +1,2 @@
-# jingtying-MachineLearning-Assignment2
+# MachineLearning-Assignment2
 Homework Assignment (Stock Prediction)
